@@ -47,7 +47,6 @@ public class advanced {
         System.out.println("FizzBuzz");
         else
         System.out.println("impossible math");
-        scanner.close();
-        
+        scanner.close();   
     }
 }
