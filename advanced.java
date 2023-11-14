@@ -48,5 +48,8 @@ public class advanced {
         else
         System.out.println("impossible math");
         scanner.close();
+        //for loops
+        for(int i = 0; i < 5; i++);
+        System.out.println("Just advancing");
     }
 }
